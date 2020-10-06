@@ -60,7 +60,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CompareCustomerObject\Kindred.csproj">
+    <ProjectReference Include="..\KindredSpirit\Kindred.csproj">
       <Project>{d61af732-5de7-4710-a19e-3a153e6a6db7}</Project>
       <Name>Kindred</Name>
     </ProjectReference>
