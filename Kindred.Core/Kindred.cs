@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace KindredSpirit
+namespace KindredSpiritCore
 {
     public static class Kindred
     {
