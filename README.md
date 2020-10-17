@@ -10,6 +10,3 @@ It provides just one class named Kindred with just one method named AreItemsEqua
 ```c#
 var result = Kindred.AreItemsEqual(valueA, valueB);
 ```
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
